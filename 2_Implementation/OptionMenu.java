@@ -220,7 +220,7 @@ public class OptionMenu {
 	}
 
 	public void mainMenu() throws IOException {
-		data.put(952141, new Account(952141, 191904, 1000, 5000));
+		data.put(9900, new Account(9900, 1004, 1000, 5000));
 		data.put(123, new Account(123, 123, 20000, 50000));
 		boolean end = false;
 		while (!end) {
