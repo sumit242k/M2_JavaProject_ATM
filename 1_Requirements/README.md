@@ -58,8 +58,8 @@ HL3| Calculator | Developed |
 ## Low Level requirements :
 ID| Description | Status |
 -----|--------- |----- |
-LL1-HL1| Enter customer number and create pin| Developed  |
-Login System Customer|Developed  |
-Account Management System |Developed |
-Withdrawl mechanism |Developed  |
- Calculator |Developed  |
+LL1-HL1| ctreate customer number and create pin| Developed  |
+LL2-HL2|enter customer number and pin|Developed  |
+LL3-HL2|If user enter wrong customer number/pin, output-wrong information |Developed |
+LL4| Withdrawl mechanism |Developed  |
+LL5-HL3|enter 2 numbers for calculation and expect correct output | Developed|
