@@ -12,7 +12,7 @@
 ## Instructions :
    * 2 sample customer accounts are already build for reference:
      
-     |Sr.No| Customer Number | Pin |
+|Sr.No| Customer Number | Pin |
 |--------|-------------|---------|
 |1  | 123 | 123 |
 |2  | 9900 | 1004 |
