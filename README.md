@@ -17,4 +17,5 @@ https://api.codiga.io/project/31848/status/svg
 |`1_Requirements`     | Documents detailing requirements and research
 |`2_Implementation`   | All code and documentation
 |`3_TestplanAndOutput`| Documents with test plans and procedures
-|`4_HelpWithImplementation`| contains instructions how to run project in your system
+|`4_TestScreenshots`  | Screenshots of running projects
+|`5_HelpWithImplementation`| contains instructions how to run project in your system
